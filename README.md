@@ -1,1 +1,2 @@
-Question) Is your issue resloved ?
+Question) Is your oracle issue resloved ?
+
